@@ -5,6 +5,5 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <h1>salom</h1>
-    <h1>salom</h1>
   </React.StrictMode>
 )
